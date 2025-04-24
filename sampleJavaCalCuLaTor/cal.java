@@ -36,8 +36,7 @@ public class cal extends JFrame implements ActionListener {
             "4", "5", "6", "*",
             "1", "2", "3", "-",
             "0", "C", "=", "+",
-            "log",
-            "hello", "christian"
+            "log"
         };
 
         // for loop to configure th bottons and andd to the panel
